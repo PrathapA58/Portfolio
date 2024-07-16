@@ -68,7 +68,7 @@ Click on the image below to set up and contribute to the project or [Click here]
   <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
 </a>
 
-## Open Source Programs we have been a part of:
+## Open Source Programs we have been a part of::
 
 <p align="center">
 <a href="https://scodein.tech/"><img src="./readme_assets/open_source_programs/sci.png" width= "25%"/></a>
