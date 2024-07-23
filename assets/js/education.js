@@ -35,9 +35,9 @@ const moocscards = [
     moocLink: "https://drive.google.com/file/d/1wbn64D7ESpDooeiy5IfN4hp2cQHK12ca/view?usp=sharing",
   },
   {
-    title: "Bootstrap 4",
+    title: "ANN with Keras in Python and R",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://drive.google.com/file/d/1Jmui0_qGsJ_4a6cJehFjLXhZRbDNaSRA/view?usp=sharing",
   },
   // {
   //   title: "Intro to React",
